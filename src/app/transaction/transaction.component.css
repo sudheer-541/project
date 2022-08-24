@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+.divider{
+    position:absolute;
+    top:20%;
+    left:20%;
+    width: 800px;
+    height: 300px;
+    border: 2px solid black;
+    background:url('../transaction/transaction.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+ 
+    
+
+}
+.n1,.n2,.n3,.n4,.n5{
+        position:absolute;
+        left:70%;
+        }
+.next_button{
+    position: absolute;
+    margin-left: 30%;
+}
+form{
+    position: relative;
+    margin-left:70px;
+}
